@@ -1,1 +1,1 @@
-# esp32-steam-market-items-price-ticker
+# ESP32 steam community market items price ticker
