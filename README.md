@@ -4,3 +4,4 @@
 * [Arduino IDE](https://www.arduino.cc/en/software)
 
 ## Arduino IDE Setup
+1. In arduino IDE, go to `File > Preferences`
